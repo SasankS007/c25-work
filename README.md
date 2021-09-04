@@ -1,1 +1,2 @@
-# c25-work
+# PRO-C25-SA
+boilerplate code for student activituy
